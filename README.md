@@ -1,2 +1,2 @@
-# fnaf-2
-remake of fnaf 2
+# fnaf 2 remake
+hosted cuz my friend's friends want to play it
