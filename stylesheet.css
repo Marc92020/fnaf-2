@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+@font-face{ 
+	font-family: 'OCR-A';
+	src: url('OCRAEXT.TTF')
+}
+
+body {
+  background-color: #04001c;
+
+h1 {
+  font-family: OCR-A;
+  color: white;
+}
+
+p {
+  font-family: Lato;
+  color: white;
+}
+
+a {
+  font-family: Lato;
+}
+
+a:link {
+  color: white;
+}
+
+a:visited {
+  color: white;
+}
+
+a:hover {
+  color: white;
+}
+
+a:active {
+  color: white;
+}
+  
